@@ -1,5 +1,7 @@
 # Ethan Carter
-<img src="/images/ethan-carter.png" alt="Picture of Me" style="width:50% height:50%"> 
+
+<img src="./images/ethan-carter.png" alt="Picture of Me" style="width:30%"> 
+
 Hi, I'm Ethan Carter! I'm interested in game development and other forms of software development that involve solving intriguing problems. I also enjoy playing the bass guitar on the side.
 
 ### Table of Contents
