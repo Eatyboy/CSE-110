@@ -1,5 +1,5 @@
 # Ethan Carter
-![Picture of me](/images/ethan-carter.png) 
+<img src="/images/ethan-carter.png" alt="Picture of Me" style="width:50% height:50%"> 
 Hi, I'm Ethan Carter! I'm interested in game development and other forms of software development that involve solving intriguing problems. I also enjoy playing the bass guitar on the side.
 
 ### Table of Contents
@@ -10,9 +10,9 @@ Hi, I'm Ethan Carter! I'm interested in game development and other forms of soft
 My primary interest is game development. [Here](https://eatyboy.itch.io) is my Itch page with some of the games I've made. I'm also the tech director for UCSD's Vidoe Game Development Club. Our website is [vgdc.dev](https://vgdc.dev) of which I'm the primary developer and maintainer. 
 
 Some of my future goals include:
-- [] Publishing a game on Steam
-- [] Creating a custom game engine
-- [] Creating a custom physics engine
+- [ ] Publishing a game on Steam
+- [ ] Creating a custom game engine
+- [ ] Creating a custom physics engine
 
 ### Favorite Programming Language
 My favorite programming language is C because:
